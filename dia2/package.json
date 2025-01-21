@@ -1,0 +1,21 @@
+{
+  "name": "Dia 2 - Ejercicios",
+  "version": "1.0.0",
+  "description": "ejercicios de clase",
+  "main": "calculadora.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "sync": "node browser-sync.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "ws": "^8.18.0"
+  }
+}

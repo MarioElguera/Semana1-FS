@@ -73,4 +73,3 @@ trianguloIzquierda(size);
 console.log('Triángulo Justificado a la Derecha:');
 trianguloDerecha(size);
 
-//Ejercicio 8
