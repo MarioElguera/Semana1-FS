@@ -7,5 +7,10 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console-success": "^1.0.4",
+    "lodash": "^4.17.21"
+  }
 }

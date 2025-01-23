@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "console-log-colors": "^0.5.0",
     "express": "^4.21.2",
+    "image-to-ascii": "^2.0.0",
     "prompt-sync": "^4.2.0"
   }
 }
